@@ -20,6 +20,9 @@
 [<img align="left" alt="devvarma19" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/DevVarma19
 )
 
+<br/>
+<br/>
+
 ### Languages and Tools:
 
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
