@@ -4,7 +4,7 @@
 
 ## I'm a Web Developer and Competitive Programmer!!
 
--🐱‍💻 Love to code
+- 🐱‍💻 Love to code
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DevVarma19&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -30,9 +30,9 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg" />
+<img align="left" alt="Git" width="26px" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br/>
