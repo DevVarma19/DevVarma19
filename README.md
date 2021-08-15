@@ -2,6 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=DevVarma19&color=blue)
 
+## I'm a Web Developer and Competitive Programmer!!
+
+- ⚡ I love to solve problems
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=DevVarma19)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
