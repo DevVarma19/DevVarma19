@@ -10,14 +10,15 @@
 
 ### Connect with me:
 
-[![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin])
-[![Instagram Connect](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![Twitter Connect](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-varma-mvss/)
+[![Instagram Connect](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/varma__m_19/)
+[![Twitter Connect](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VarmaMandapati3)
 
 ### Competitive Programming Profiles:
-[<img align="left" alt="devvarma19" width="45px" target="_blank" src="https://www.codechef.com/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png" />][codechef]
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img align="left" alt="devvarma19" height="45px" width="45px" src="https://phantomhieve.github.io/profile/img/codeforces.png" />][codeforces]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="left" alt="devvarma19" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />][hackerrank]
+[<img align="left" alt="devvarma19" width="45px" target="_blank" src="https://www.codechef.com/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png" />](https://www.codechef.com/users/varmamandapati)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img align="left" alt="devvarma19" height="45px" width="45px" src="https://phantomhieve.github.io/profile/img/codeforces.png" />](https://codeforces.com/profile/DevVarma19)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img align="left" alt="devvarma19" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/DevVarma19
+)
 
 ### Languages and Tools:
 
@@ -35,10 +36,3 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br/>
-
-[linkedin] : https://www.linkedin.com/in/dev-varma-mvss/
-[instagram] : https://www.instagram.com/varma__m_19/
-[twitter] : https://twitter.com/VarmaMandapati3
-[codechef] : https://www.codechef.com/users/varmamandapati
-[codeforces] : https://codeforces.com/profile/DevVarma19
-[hackerrank] : https://www.hackerrank.com/DevVarma19
