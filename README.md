@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=DevVarma19&color=blue)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DevVarma19=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DevVarma19)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **DevVarma19/DevVarma19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
