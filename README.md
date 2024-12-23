@@ -4,7 +4,7 @@
 
 ## I'm a Web Developer and Competitive Programmer!!
 
-- 🐱‍💻 Love to code
+- 🧑‍💻 Love to code
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DevVarma19&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
